@@ -3,3 +3,5 @@
 ## Branches
 
 - branch - to creat a new branch use checkout -b and then the name of the branch  
+
+- still learning - 1
