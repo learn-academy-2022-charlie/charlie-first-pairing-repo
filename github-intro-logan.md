@@ -1,1 +1,1 @@
-Here's some text
+Create a new branch with `git checkout -b <branch-name>
