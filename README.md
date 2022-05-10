@@ -2,7 +2,6 @@
 
 ## First Day of Coding in the Charlie Cohort
 
-
 ### Vocabulary
 - git - software that creates version control
 - GitHub - online platform that uses git technology
@@ -25,3 +24,4 @@
 ### Git Workflow for Pairing
 - informational commands: `ls`, `pwd`, `git status`
 - create a new branch
+
