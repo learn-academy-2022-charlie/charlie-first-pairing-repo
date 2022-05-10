@@ -1,5 +1,6 @@
-# GitHub Intro
-
-Branching and pairing!
-
-To create a branch we have to use the command: `git checkout -b <branch-name>`
+### Git Workflow Pairing
+- informational commands: `$ ls`, `$ pwd`, `$ git status`
+- `$ git checkout -b <name-of-new-branch>`
+- `$ touch <new-file>.filetype`
+- `$ git commit -m "meaningful message about changes"`
+- `$ git push origin <name-of-new-branch>`
