@@ -25,5 +25,3 @@
 - informational commands: `ls`, `pwd`, `git status`
 - create a new branch
 
-### Changes Made by Jenner Dulce
-- Hello I am just adding some info right here. that is all.
