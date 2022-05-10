@@ -1,5 +1,5 @@
-#LEAERNING GitHub
+# LEAERNING GitHub
 
-##Branches
+## Branches
 
-- branch - to crea a new branch use checkout -b and then the name of the branch  
+- branch - to creat a new branch use checkout -b and then the name of the branch  
